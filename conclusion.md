@@ -1,0 +1,9 @@
+**Conclusion:**
+
+In analyzing the effects of varying Pulse Width Modulation (PWM) duty cycles on the luminous flux of high-power Light Emitting Diodes (LEDs), my observations substantiate the hypothesis that increased duty cycles correspond to heightened luminous output. The consistent rise in mean luminous flux across different duty cycles affirms the efficacy of PWM in influencing LED performance. Notably, the control group at a 100% duty cycle maintained a comparatively high mean luminous flux, highlighting the stability of LED performance under these conditions. However, recognizing the experimental limitations is imperative.
+
+Several sources of error have been identified, including the use of non-standardized LEDs and code written by a hobbyist, introducing potential inconsistencies. Additionally, the influence of external light on measurements poses a significant challenge to the accuracy of results.
+
+As I reflect on the experiment, areas for improvement become evident. Standardizing LED characteristics and employing professionally written code would enhance the reliability of results. Mitigating the impact of external light through controlled environmental conditions could offer a more accurate portrayal of LED performance.
+
+The broader significance of this research lies in advancing the development of energy-efficient lighting technologies. By revealing the relationship between PWM and LED luminosity, this study contributes insights to the pursuit of sustainable lighting solutions. Despite the acknowledged limitations, the findings provide a foundation for enhancing LED efficiency, addressing a vital aspect of the larger research problem of sustainable energy consumption. While the experiment is not without challenges, its relevance extends beyond the confines of the laboratory, holding promise for a more environmentally conscious and illuminated future.
